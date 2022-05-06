@@ -1,10 +1,9 @@
 {
-        "_ads comment": "0:OffAds & 1:OnAds",
-        "ads": [
+        "vid_url": [
             {
-                "https://github.com/UserByAndr/newv/blob/main/vids/1.mp4",
-                    "https://github.com/UserByAndr/newv/blob/main/vids/2.mp4",
-                    "https://github.com/UserByAndr/newv/blob/main/vids/3.mp4"
+                "url": "https://github.com/UserByAndr/newv/blob/main/vids/1.mp4",
+                    "url": "https://github.com/UserByAndr/newv/blob/main/vids/2.mp4",
+                    "url": "https://github.com/UserByAndr/newv/blob/main/vids/3.mp4"
             }
         ]
 }
